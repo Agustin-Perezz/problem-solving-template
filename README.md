@@ -1,1 +1,1 @@
-# problem-solving-template
+# problem-solving-folder
